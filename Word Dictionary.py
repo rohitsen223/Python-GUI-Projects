@@ -1,3 +1,9 @@
+#This project is based on the word dictionary GUI,user can search meaning, synonyms and antonyms of any word that they enter into search box,so here PyDictionary library is used which contains all the meanings, synonyms and antonyms of the all the words that are present in normal dictionary,it might be considered as a virtual dictionary.
+
+
+
+#import necessary libraries from python libraries
+
 from tkinter import *
 from PyDictionary import PyDictionary
 #-------------------------
